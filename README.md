@@ -89,3 +89,6 @@ Information on how to get started can be found at our
 [FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
 [platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
+
+### License
+Flutter is [New BSD Licensed](./LICENSE).
